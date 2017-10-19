@@ -3,4 +3,4 @@ Git is free software.
 
 Git has a mutable index called stage.
 Git tracks changes
-Ð¤ÖÐ·åÓÐµãÉµ¹þ¹þ¹þ¹þ
+è‚–ä¸­å³°
