@@ -1,5 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
-
-Git has a mutable index called stage.
-Git tracks changes
+此仓库下的项目为本人练手所用，包括CCF练习，编程练习，java基本功练习
